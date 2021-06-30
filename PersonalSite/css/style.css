@@ -1,0 +1,36 @@
+/*---------------------------------TAG SELECTORS-------------------------*/
+
+body {
+   background-color: #dbf6e9;
+}
+
+h1 {
+   font-size: 3em;
+   color: gray;
+}
+
+
+/*--------------------------------CLASS SELECTORS-----------------------
+En html se programa con "class".
+e.g <img class="abc">
+Y en css se llama:
+.abc {
+
+}
+*/
+
+.hidden {
+  display: none;
+}
+
+/*
+--------------------------------ID SELECTORS-----------------------
+En html se programa con "id".
+e.g <h1 id="xyz">
+Y en css se llama:
+#xyz {
+
+}
+
+
+*/
